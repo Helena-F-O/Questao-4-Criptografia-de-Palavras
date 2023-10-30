@@ -7,6 +7,14 @@ Fase:6
 
 Engenharia de Software
 
+Para rodar utilizei um compilador online de Javascript: https://www.programiz.com/javascript/online-compiler/
+
+Retorna o resultado ao executar o projeto.
+
+
+
+Instruções da questão:
+
 Questão 4: Criptografia de Palavras
 
 Você deve implementar uma função chamada encryptThis(message) que criptografa uma mensagem de texto seguindo as regras especificadas abaixo:
